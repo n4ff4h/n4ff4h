@@ -4,7 +4,7 @@ Hi 👋,  My name is Naffah Abdulla Rasheed
 Full Stack Developer
 --------------------
 
-Wake up --> Coffee --> Eat --> Code --> Sleep
+Wake up ⮕ Coffee ⮕ Eat ⮕ Code ⮕ Sleep
 
 * 🌍  I'm based in Maldives
 * 🖥️  See my portfolio at [naffah.me](http://naffah.me)
