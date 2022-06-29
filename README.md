@@ -9,7 +9,7 @@ Wake up ⮕ Coffee ⮕ Eat ⮕ Code ⮕ Sleep
 * 🌍  I'm based in Maldives
 * 🖥️  See my portfolio at [naffah.me](http://naffah.me)
 * ✉️  You can contact me at [mail@naffah.me](mailto:mail@naffah.me)
-* 🚀  I'm currently working on [Bloggist](http://https://github.com/n4ff4h/bloggist)
+* 🚀  I'm currently working on [InkStory](http://https://github.com/n4ff4h/inkstory)
 * 🧠  I'm learning Django and Flutter
 
 ### Skills
