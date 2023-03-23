@@ -7,8 +7,7 @@ As is common for many developers, I started my journey by printing a "Hello, Wor
 - 🌍  I'm based in Maldives
 - 🖥️  See my portfolio at [naffah.me](http://naffah.me)
 - ✉️  You can contact me at [mail@naffah.me](mailto:mail@naffah.me)
-- 🚀  I'm currently working on [OneStopMV](http://onestopmv.com)
-- 🧠  I'm learning Flutter and Django
+- 🧠  I'm learning Vue.js and Laravel
 - ⚡  I like Chess
 
 ### Skills
