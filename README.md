@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm a Full Stack Developer from the tiny islands of Maldives 🌴<br><br>- 🔭 I’m working as a Full Stack Developer @vstc<br>- 📚 I'm currently learning Flask<br>- ⚡ In my free time I play a lot of chess 😎</p>
+<p align="left">I'm a Full Stack Developer from the tiny islands of Maldives 🌴<br><br>- 🔭 I’m working as a Full Stack Developer @vstc<br>- 📚 I'm currently learning Laravel<br>- ⚡ In my free time I play a lot of chess 😎</p>
 
 ###
 
